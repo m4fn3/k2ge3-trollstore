@@ -1,8 +1,8 @@
 # A guide for K2ge3 TrollStore Installation
 
 ## Attention
-If you sideload LINE with methods other than TrollStore(free/paid apple account or enterprise cert), LINE won't work correctly and you may lose access to your account.
-Please refer to [this site](https://ios.cfw.guide/installing-trollstore/) for supported versions & installation methods of TrollStore.
+If you sideload LINE with methods other than TrollStore(free/paid apple account or enterprise cert), LINE won't work correctly and you may lose access to your account.<br>
+Please refer to [this site](https://ios.cfw.guide/installing-trollstore/) for supported versions & installation methods of TrollStore.<br>
 Moreover, I recommend you to back up your data through AppsManager etc beforehand.
 
 ## Installation

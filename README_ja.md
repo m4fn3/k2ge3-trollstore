@@ -7,7 +7,7 @@ TrollStoreの対応バージョン及びインストール方法は[こちら](h
 また、万一のために事前にAppsManager等でデータをバックアップしたり、トーク履歴をバックアップ&引継ぎモードを有効化しておくことをお勧めします。(基本的に、問題が発生してもアプリを消さずにAppStoreからの再インストールを行えばデータは残ります)
 
 ## インストール
-1. K2ge3入りのLINEのipaを[こちら](https://github.com/m4fn3/k2ge3-trollstore/releases/latest)からダウンロードしてください<br>* 上級者の方は、[こちら](https://github.com/m4fn3/repo/tree/master/debs)から最新版のdebを取得してお好きなLINEのバージョンのipaに注入しても構いません<br>* TrollStoreで利用するにはK2ge3 v1.0.3以上を使用する必要があります
+1. K2ge3入りのLINEのipaを[こちら](https://github.com/m4fn3/k2ge3-trollstore/releases/latest)からダウンロードしてください<br>* 上級者の方は、[こちら](https://github.com/m4fn3/repo/tree/master/debs)から最新版のdebを取得してお好きなLINEのバージョンのipaに注入しても構いません(SideloadyのExportモードで注入した場合の動作は確認済です)<br>* TrollStoreで利用するにはK2ge3 v1.0.3以上を使用する必要があります
 2. TrollStore経由でipaをインストールしてください<br>* 既にAppStoreからインストールしている場合は、Force Installationを押して上書きすることでアプリのデータをそのまま保持できます<br>* TrollStoreでインストールした後に元に戻したい場合は、AppStoreから検索して再ダウンロードすることで元の戻せます 
 3. LINEアプリ内の設定画面にあるK2ge3の設定画面を開いてください
 4. 初回仕様時には、ライセンスキーを入力してライセンス認証をしてください

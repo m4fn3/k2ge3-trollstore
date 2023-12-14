@@ -2,8 +2,9 @@
 
 ## 注意
 TrollStore以外の方法(無料/有料のAppleアカウント,企業署名等)でLINEをサイドロードした場合LINEが正常に機能せず、最悪の場合アカウントにアクセスできなくなる可能性があるため十分ご注意ください。<br>
+また、アプリの複製には対応していないためアプリのバンドルIDをjp.naver.lineから変更しないでください。<br>
 TrollStoreの対応バージョン及びインストール方法は[こちら](https://ios.cfw.guide/installing-trollstore/)を参照して下さい。<br>
-また、事前にAppsManager等でデータをバックアップしておくことをお勧めします。
+また、万一のために事前にAppsManager等でデータをバックアップしたり、トーク履歴をバックアップ&引継ぎモードを有効化しておくことをお勧めします。
 
 ## インストール
 1. K2ge3入りのLINEのipaを[こちら](https://github.com/m4fn3/k2ge3-trollstore/releases/latest)からダウンロードしてください<br>* 上級者の方は、[こちら](https://github.com/m4fn3/repo/tree/master/debs)から最新版のdebを取得してお好きなLINEのバージョンのipaに注入しても構いません<br>* TrollStoreで利用するにはK2ge3 v1.0.3以上を使用する必要があります

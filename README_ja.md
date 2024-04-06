@@ -1,5 +1,7 @@
 # TrollStoreでのK2ge3のインストール手順
 
+[English](https://github.com/m4fn3/k2ge3-trollstore/blob/master/README.md)
+
 ## 注意
 TrollStore以外の方法(無料/有料のAppleアカウント,企業署名等)でLINEをサイドロードした場合LINEが正常に機能せず、最悪の場合アカウントにアクセスできなくなる可能性があるため十分ご注意ください。<br>
 また、アプリの複製には対応していないためアプリのバンドルIDをjp.naver.lineから変更しないでください。<br>

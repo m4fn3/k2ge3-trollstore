@@ -1,5 +1,7 @@
 # A guide for K2ge3 TrollStore Installation
 
+[日本語](https://github.com/m4fn3/k2ge3-trollstore/blob/master/README_ja.md)
+
 ## Attention
 If you sideload LINE with methods other than TrollStore(free/paid apple account or enterprise cert), LINE won't work correctly and you may lose access to your account.<br>
 Please don't change the bundle identifier from jp.naver.line as it doesn't support duplicating. <be>

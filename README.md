@@ -2,6 +2,9 @@
 
 [日本語](https://github.com/m4fn3/k2ge3-trollstore/blob/master/README_ja.md)
 
+> [!WARNING]
+> K2ge3 is deprecated! Please upgrade to K2ge3Air for better experiences. For more info, please check [here](https://m4fn3.github.io/repo/web/K2ge3Air.html).
+
 ## Attention
 If you sideload LINE with methods other than TrollStore(free/paid apple account or enterprise cert), LINE won't work correctly and you may lose access to your account.<br>
 Please don't change the bundle identifier from jp.naver.line as it doesn't support duplicating. <be>
